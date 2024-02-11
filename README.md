@@ -22,6 +22,5 @@ Commands:
 
 
 credits:
- - discord.gg/aid-market
- - discord.gg/cb-market
+ - discord.gg/bajn
  - Discord User: Bajn
